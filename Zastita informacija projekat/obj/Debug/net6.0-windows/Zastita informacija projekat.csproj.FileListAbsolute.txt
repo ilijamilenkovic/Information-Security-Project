@@ -1,0 +1,51 @@
+C:\Users\ilija\source\repos\Zastita informacija projekat\Zastita informacija projekat\bin\Debug\net6.0-windows\Zastita informacija projekat.exe
+C:\Users\ilija\source\repos\Zastita informacija projekat\Zastita informacija projekat\bin\Debug\net6.0-windows\Zastita informacija projekat.deps.json
+C:\Users\ilija\source\repos\Zastita informacija projekat\Zastita informacija projekat\bin\Debug\net6.0-windows\Zastita informacija projekat.runtimeconfig.json
+C:\Users\ilija\source\repos\Zastita informacija projekat\Zastita informacija projekat\bin\Debug\net6.0-windows\Zastita informacija projekat.dll
+C:\Users\ilija\source\repos\Zastita informacija projekat\Zastita informacija projekat\bin\Debug\net6.0-windows\Zastita informacija projekat.pdb
+C:\Users\ilija\source\repos\Zastita informacija projekat\Zastita informacija projekat\obj\Debug\net6.0-windows\Zastita informacija projekat.csproj.AssemblyReference.cache
+C:\Users\ilija\source\repos\Zastita informacija projekat\Zastita informacija projekat\obj\Debug\net6.0-windows\Zastita_informacija_projekat.Form1.resources
+C:\Users\ilija\source\repos\Zastita informacija projekat\Zastita informacija projekat\obj\Debug\net6.0-windows\Zastita informacija projekat.csproj.GenerateResource.cache
+C:\Users\ilija\source\repos\Zastita informacija projekat\Zastita informacija projekat\obj\Debug\net6.0-windows\Zastita informacija projekat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilija\source\repos\Zastita informacija projekat\Zastita informacija projekat\obj\Debug\net6.0-windows\Zastita informacija projekat.AssemblyInfoInputs.cache
+C:\Users\ilija\source\repos\Zastita informacija projekat\Zastita informacija projekat\obj\Debug\net6.0-windows\Zastita informacija projekat.AssemblyInfo.cs
+C:\Users\ilija\source\repos\Zastita informacija projekat\Zastita informacija projekat\obj\Debug\net6.0-windows\Zastita informacija projekat.csproj.CoreCompileInputs.cache
+C:\Users\ilija\source\repos\Zastita informacija projekat\Zastita informacija projekat\obj\Debug\net6.0-windows\Zastita informacija projekat.dll
+C:\Users\ilija\source\repos\Zastita informacija projekat\Zastita informacija projekat\obj\Debug\net6.0-windows\refint\Zastita informacija projekat.dll
+C:\Users\ilija\source\repos\Zastita informacija projekat\Zastita informacija projekat\obj\Debug\net6.0-windows\Zastita informacija projekat.pdb
+C:\Users\ilija\source\repos\Zastita informacija projekat\Zastita informacija projekat\obj\Debug\net6.0-windows\Zastita informacija projekat.genruntimeconfig.cache
+C:\Users\ilija\source\repos\Zastita informacija projekat\Zastita informacija projekat\obj\Debug\net6.0-windows\ref\Zastita informacija projekat.dll
+D:\Zastita_informacija_projekat\Zastita informacija projekat\Zastita informacija projekat\bin\Debug\net6.0-windows\Zastita informacija projekat.exe
+D:\Zastita_informacija_projekat\Zastita informacija projekat\Zastita informacija projekat\bin\Debug\net6.0-windows\Zastita informacija projekat.deps.json
+D:\Zastita_informacija_projekat\Zastita informacija projekat\Zastita informacija projekat\bin\Debug\net6.0-windows\Zastita informacija projekat.runtimeconfig.json
+D:\Zastita_informacija_projekat\Zastita informacija projekat\Zastita informacija projekat\bin\Debug\net6.0-windows\Zastita informacija projekat.dll
+D:\Zastita_informacija_projekat\Zastita informacija projekat\Zastita informacija projekat\bin\Debug\net6.0-windows\Zastita informacija projekat.pdb
+D:\Zastita_informacija_projekat\Zastita informacija projekat\Zastita informacija projekat\obj\Debug\net6.0-windows\Zastita informacija projekat.csproj.AssemblyReference.cache
+D:\Zastita_informacija_projekat\Zastita informacija projekat\Zastita informacija projekat\obj\Debug\net6.0-windows\Zastita_informacija_projekat.Form1.resources
+D:\Zastita_informacija_projekat\Zastita informacija projekat\Zastita informacija projekat\obj\Debug\net6.0-windows\Zastita informacija projekat.csproj.GenerateResource.cache
+D:\Zastita_informacija_projekat\Zastita informacija projekat\Zastita informacija projekat\obj\Debug\net6.0-windows\Zastita informacija projekat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zastita_informacija_projekat\Zastita informacija projekat\Zastita informacija projekat\obj\Debug\net6.0-windows\Zastita informacija projekat.AssemblyInfoInputs.cache
+D:\Zastita_informacija_projekat\Zastita informacija projekat\Zastita informacija projekat\obj\Debug\net6.0-windows\Zastita informacija projekat.AssemblyInfo.cs
+D:\Zastita_informacija_projekat\Zastita informacija projekat\Zastita informacija projekat\obj\Debug\net6.0-windows\Zastita informacija projekat.csproj.CoreCompileInputs.cache
+D:\Zastita_informacija_projekat\Zastita informacija projekat\Zastita informacija projekat\obj\Debug\net6.0-windows\Zastita informacija projekat.dll
+D:\Zastita_informacija_projekat\Zastita informacija projekat\Zastita informacija projekat\obj\Debug\net6.0-windows\refint\Zastita informacija projekat.dll
+D:\Zastita_informacija_projekat\Zastita informacija projekat\Zastita informacija projekat\obj\Debug\net6.0-windows\Zastita informacija projekat.pdb
+D:\Zastita_informacija_projekat\Zastita informacija projekat\Zastita informacija projekat\obj\Debug\net6.0-windows\Zastita informacija projekat.genruntimeconfig.cache
+D:\Zastita_informacija_projekat\Zastita informacija projekat\Zastita informacija projekat\obj\Debug\net6.0-windows\ref\Zastita informacija projekat.dll
+C:\Projekat zastita\Zastita_informacija_projekat\Zastita informacija projekat\Zastita informacija projekat\bin\Debug\net6.0-windows\Zastita informacija projekat.exe
+C:\Projekat zastita\Zastita_informacija_projekat\Zastita informacija projekat\Zastita informacija projekat\bin\Debug\net6.0-windows\Zastita informacija projekat.deps.json
+C:\Projekat zastita\Zastita_informacija_projekat\Zastita informacija projekat\Zastita informacija projekat\bin\Debug\net6.0-windows\Zastita informacija projekat.runtimeconfig.json
+C:\Projekat zastita\Zastita_informacija_projekat\Zastita informacija projekat\Zastita informacija projekat\bin\Debug\net6.0-windows\Zastita informacija projekat.dll
+C:\Projekat zastita\Zastita_informacija_projekat\Zastita informacija projekat\Zastita informacija projekat\bin\Debug\net6.0-windows\Zastita informacija projekat.pdb
+C:\Projekat zastita\Zastita_informacija_projekat\Zastita informacija projekat\Zastita informacija projekat\obj\Debug\net6.0-windows\Zastita informacija projekat.csproj.AssemblyReference.cache
+C:\Projekat zastita\Zastita_informacija_projekat\Zastita informacija projekat\Zastita informacija projekat\obj\Debug\net6.0-windows\Zastita_informacija_projekat.Form1.resources
+C:\Projekat zastita\Zastita_informacija_projekat\Zastita informacija projekat\Zastita informacija projekat\obj\Debug\net6.0-windows\Zastita informacija projekat.csproj.GenerateResource.cache
+C:\Projekat zastita\Zastita_informacija_projekat\Zastita informacija projekat\Zastita informacija projekat\obj\Debug\net6.0-windows\Zastita informacija projekat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projekat zastita\Zastita_informacija_projekat\Zastita informacija projekat\Zastita informacija projekat\obj\Debug\net6.0-windows\Zastita informacija projekat.AssemblyInfoInputs.cache
+C:\Projekat zastita\Zastita_informacija_projekat\Zastita informacija projekat\Zastita informacija projekat\obj\Debug\net6.0-windows\Zastita informacija projekat.AssemblyInfo.cs
+C:\Projekat zastita\Zastita_informacija_projekat\Zastita informacija projekat\Zastita informacija projekat\obj\Debug\net6.0-windows\Zastita informacija projekat.csproj.CoreCompileInputs.cache
+C:\Projekat zastita\Zastita_informacija_projekat\Zastita informacija projekat\Zastita informacija projekat\obj\Debug\net6.0-windows\Zastita informacija projekat.dll
+C:\Projekat zastita\Zastita_informacija_projekat\Zastita informacija projekat\Zastita informacija projekat\obj\Debug\net6.0-windows\refint\Zastita informacija projekat.dll
+C:\Projekat zastita\Zastita_informacija_projekat\Zastita informacija projekat\Zastita informacija projekat\obj\Debug\net6.0-windows\Zastita informacija projekat.pdb
+C:\Projekat zastita\Zastita_informacija_projekat\Zastita informacija projekat\Zastita informacija projekat\obj\Debug\net6.0-windows\Zastita informacija projekat.genruntimeconfig.cache
+C:\Projekat zastita\Zastita_informacija_projekat\Zastita informacija projekat\Zastita informacija projekat\obj\Debug\net6.0-windows\ref\Zastita informacija projekat.dll
